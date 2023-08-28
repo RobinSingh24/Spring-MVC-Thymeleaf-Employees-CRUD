@@ -3,10 +3,12 @@
 Home Page
 
 ![image](https://github.com/RobinSingh24/Spring-MVC-Thymeleaf-Employees-CRUD/assets/52188984/ac9ceb59-7dd8-4393-8dd2-c8709b314075)
+
 <hr>
 Update Employee
 
 ![image](https://github.com/RobinSingh24/Spring-MVC-Thymeleaf-Employees-CRUD/assets/52188984/595d9dc6-9769-4589-bc46-a4ac018018f0)
+
 <hr>
 Delete Employee
 
